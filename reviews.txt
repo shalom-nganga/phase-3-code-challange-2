@@ -1,0 +1,4 @@
+Customer: shalom muhoyas, Restaurant: sarova hotel, Rating: 5
+Customer: shalom muhoyas, Restaurant: sarova, Rating: 5
+Customer: shalom muhoyas, Restaurant: sarova, Rating: 5
+Customer: shalom nganga, Restaurant: chester hotel, Rating: 5
