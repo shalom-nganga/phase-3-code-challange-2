@@ -1,5 +1,3 @@
 Customer: shalom muhoyas, Restaurant: sarova hotel, Rating: 5
-Customer: shalom muhoyas, Restaurant: sarova, Rating: 5
-Customer: shalom muhoyas, Restaurant: sarova, Rating: 5
-Customer: shalom nganga, Restaurant: chester hotel, Rating: 5
-Customer: nganga  macharia, Restaurant: howard, Rating: 6
+Customer: ian njagah , Restaurant: pronto, Rating: 5
+Customer: shalom nganga, Restaurant: java, Rating: 5
